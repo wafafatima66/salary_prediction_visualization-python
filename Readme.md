@@ -38,12 +38,12 @@ Predictive modeling project that estimates tech employee salaries using Stack Ov
 ## Screenshots
 
 ### Streamlit App - Real-time Prediction Interface  
-![Streamlit App](screenshots/1.png)
-![Streamlit App](screenshots/2.png)
-![Streamlit App](screenshots/3.png)
-![Streamlit App](screenshots/4.png)
-![Streamlit App](screenshots/5.png)
-![Streamlit App](screenshots/6.png)
+![Streamlit App](Screenshots/1.png)
+![Streamlit App](Screenshots/2.png)
+![Streamlit App](Screenshots/3.png)
+![Streamlit App](Screenshots/4.png)
+![Streamlit App](Screenshots/5.png)
+![Streamlit App](Screenshots/6.png)
 
 
 ---
