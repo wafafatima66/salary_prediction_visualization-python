@@ -52,7 +52,7 @@ Predictive modeling project that estimates tech employee salaries using Stack Ov
 
 1. Clone the repository:
 
-- git clone https://github.com/yourusername/tech-salary-prediction.git
+- git clone https://github.com/wafafatima66/salary_prediction_visualization-python
 - cd tech-salary-prediction
 
 2. Create a virtual environment (optional but recommended):
